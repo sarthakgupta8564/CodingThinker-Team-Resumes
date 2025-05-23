@@ -14,7 +14,7 @@
 
 ---
 
-## 📄 [View Resume](../../resumes/data-analytics/Sarthak-Gupta-Resume.pdf)
+## 📄 [View Resume](../../resumes/data-analytics/Sarthak-Gupta.pdf)
 
 📧 guptasarthak8564@gmail.com  
 📱 +91-8839998564  
